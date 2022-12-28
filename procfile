@@ -1,0 +1,1 @@
+web: gunicorn h4ckingpoint.wsgi --log-file -
